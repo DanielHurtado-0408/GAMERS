@@ -20,8 +20,8 @@ import java.util.Random;
 public class BaseDatosFile {
 
 
-	private String ruta = "C:\\proyectos\\archivos.out";
-	private String rutaReg = "C:\\proyectos\\registro.txt";
+	private String ruta = "C:\\proyectoVacaciones\\archivos.out";
+	private String rutaReg = "C:\\proyectoVacaciones\\registro.txt";
 
 	private File f; 
 	private FileOutputStream fos;     
